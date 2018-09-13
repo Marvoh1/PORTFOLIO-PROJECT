@@ -1,0 +1,48 @@
+body {
+	box-sizing: border-box;
+	max-width: 800px
+	min-width: 200px;
+	
+}
+.header {
+
+	text-align: right;
+	font-size: 20px;
+	margin-bottom: 10px;
+	border-bottom: solid #7d97ad 5px;
+	width: 100%;
+	
+}
+.logo {
+	float: left;
+	margin-bottom: 0px;	
+}
+
+.main-img {
+	text-align: center;
+	margin-top:20px;
+	
+}
+
+.port-folio {
+	font-size: 40px;
+	margin-top: 30px;
+	margin-bottom: 0px;
+	font-family:serif;
+	color:#7d97ad;
+}
+
+div.gallery {
+	text-align: center;
+	margin-top: 0px;
+	margin: 40px;
+	float: left;
+	width: 300px;
+}
+div.gallery img {
+
+	width: 100%;
+	height: auto;
+}
+
+
